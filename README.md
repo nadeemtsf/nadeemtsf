@@ -96,10 +96,10 @@ const nadeem = {
 ┌────────────────────────────────────────────────────────────────────┐
 │  🟡 MY CURRENT MAIN QUESTS ⚔️                                     │
 │  ├── 🤟 Sign Language Interpreter (ML + Computer Vision) 👁️       │
-│  │       HP: [==========··········]  50%  In Progress              │
+│  │       HP: [============········]  60%  In Progress              │
 │  │                                                                 │
 │  ├── ☁️ AWS Certification 🔧                                      │
-│  │       HP: [========············]  40%  Studying                 │
+│  │       HP: [======··············]  30%  Studying                 │
 │  │                                                                 │
 │  └── 🎓 B.Sc. Computer Science @ Al-Quds University 💻            │
 │          HP: [==================··]  90%  Final Semester!          │
