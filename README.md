@@ -107,7 +107,6 @@ const nadeem = {
 │  🟢 SIDE QUESTS COMPLETED 🏆                                      │
 │  ├── ✅ Sklr — Peer-to-peer skill exchange app (Flutter) 🔄       │
 │  ├── ✅ Block Buddy — Crypto Discord bot (JavaScript) 🤖          │
-│  ├── ✅ Hand-2-Cursor — ASL hand tracking (Python + ML) 🖱️        │
 │  ├── ✅ Earthquake Monitor — Streamlit dashboard (Python) 🌍      │
 │  └── ✅ ML From Scratch — Algorithms in C++ 🧠                    │
 └────────────────────────────────────────────────────────────────────┘
