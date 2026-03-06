@@ -93,24 +93,24 @@ const nadeem = {
 ## `> CURRENT QUESTS_`
 
 ```
-┌─────────────────────────────────────────────────────────────────────┐
-│  [!] MY CURRENT MAIN QUESTS                                         │
-│  ├── >> Building a Sign Language Interpreter (ML + Computer Vision) │
-│  │       HP: [==========··········]  50%  In Progress               │
-│  │                                                                  │
-│  ├── >> AWS Certification                                           │
-│  │       HP: [========············]  40%  Studying                  │
-│  │                                                                  │
-│  └── >> B.Sc. Computer Science @ Al-Quds University                 │
-│          HP: [==================··]  90%  Final Semester!           │
-│                                                                     │
-│  [+] SIDE QUESTS COMPLETED                                          │
-│  ├── [x] Sklr — Peer-to-peer skill exchange app (Flutter)           │
-│  ├── [x] Block Buddy — Crypto Discord bot (JavaScript)              │
-│  ├── [x] Hand-2-Cursor — ASL hand tracking (Python + ML)            │
-│  ├── [x] Earthquake Monitor — Streamlit dashboard (Python)          │
-│  └── [x] ML From Scratch — Algorithms in C++                        │
-└─────────────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────┐
+│  🟡 MY CURRENT MAIN QUESTS ⚔️                                     │
+│  ├── 🤟 Sign Language Interpreter (ML + Computer Vision) 👁️       │
+│  │       HP: [==========··········]  50%  In Progress              │
+│  │                                                                 │
+│  ├── ☁️ AWS Certification 🔧                                      │
+│  │       HP: [========············]  40%  Studying                 │
+│  │                                                                 │
+│  └── 🎓 B.Sc. Computer Science @ Al-Quds University 💻            │
+│          HP: [==================··]  90%  Final Semester!          │
+│                                                                    │
+│  🟢 SIDE QUESTS COMPLETED 🏆                                      │
+│  ├── ✅ Sklr — Peer-to-peer skill exchange app (Flutter) 🔄       │
+│  ├── ✅ Block Buddy — Crypto Discord bot (JavaScript) 🤖          │
+│  ├── ✅ Hand-2-Cursor — ASL hand tracking (Python + ML) 🖱️        │
+│  ├── ✅ Earthquake Monitor — Streamlit dashboard (Python) 🌍      │
+│  └── ✅ ML From Scratch — Algorithms in C++ 🧠                    │
+└────────────────────────────────────────────────────────────────────┘
 ```
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
