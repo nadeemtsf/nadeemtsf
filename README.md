@@ -134,8 +134,5 @@ const nadeem = {
 <a href="https://www.instagram.com/nadeem.baboun/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-<a href="https://github.com/nadeemtsf">
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
 
 </div>
